@@ -1,0 +1,10 @@
+noiseplanet
+
+/*
+!.gitignore
+!.firebase.py
+!.runner.py
+!monash.net.xml
+!monash.sumocfg
+!trips.trips.xml
+!out.xml

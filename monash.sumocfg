@@ -1,0 +1,6 @@
+<configuration>
+    <net-file value="C:\Users\Caleb\Desktop\sumo_simulation\monash.net.xml"/>
+  <route-files value="C:\Users\Caleb\Desktop\sumo_simulation\out.xml"/>
+
+<step-length value="1" />
+</configuration>
